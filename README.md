@@ -1,6 +1,7 @@
 ### Collaborative To-Do List App
 
 This is a simple collaborative to-do list application built using Node.js, Express, and Socket.IO. Multiple users can add and remove to-do items in real-time.
+
 <img width="956" alt="Screenshot 2024-06-22 201728" src="https://github.com/ksvskarthik7/Realtime-Collaborative-To-doapp/assets/114343100/9e447ee0-2514-46f9-acdc-747d3864be3a">
 
 
